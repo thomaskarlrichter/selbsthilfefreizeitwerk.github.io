@@ -21,4 +21,5 @@ title: satzung
     gemeinnützige bzw. mildtätige Wohlfahrtszwecke im Sinne des Abschnitts
     "Steuerbegünstigte Zwecke" der Abgabenordnung 1977 (§§ 52 ff. AO)
     in der jeweils gültigen Fassung.
+    
     Zweck des Vereins ist:
