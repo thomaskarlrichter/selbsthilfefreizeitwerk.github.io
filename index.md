@@ -4,7 +4,7 @@ title: Home Selbsthilfe-Freizeitwerk e.V.
 ---
 
 
-### In Gemeinschaft leben auf Zeit: A-Freizeiten
+## In Gemeinschaft leben auf Zeit: A-Freizeiten
 
 A-Freizeiten sind Selbsthilfeveranstaltungen von Mitgliedern aus Gruppen, die nach einem
 12-Schritte-Programm nach dem Vorbild der Anonymen Alkoholiker arbeiten.
